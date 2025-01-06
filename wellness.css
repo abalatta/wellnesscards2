@@ -408,6 +408,8 @@
     font-size: 1rem;
     margin-bottom: 0 !important;
     color: red;
+    letter-spacing: 8px;
+      
   }
   
   @media screen and (min-width: 768px) {
