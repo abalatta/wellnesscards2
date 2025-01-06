@@ -415,4 +415,7 @@
       margin: auto;
     }
   }
+  img{
+    border-radius: 10%;
+  }
   
